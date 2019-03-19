@@ -1,0 +1,77 @@
+# Site settings
+title: Jinga's Blog
+SEOTitle: 周景的心流博客 | Jinga's Blog
+header-img: img/post-bg-rwd.jpg
+email: jingazhou＠163.com
+description: "Rome ne s'est pas faite en un jour."
+keyword: "Consultant, Data Scientist, Business Analyst, 行业研究，语言爱好者（英／法／德）, 数学专业"
+url: "http://jingzhoujinga.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/jingzhoujinga/jingzhoujinga.github.io.git" # you code repository
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "君子慎独，行胜于言!"
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# SNS settings
+RSS: false
+zhihu_username:    zhou-jing-15-1
+github_username:    jingzhoujinga
+wechat_username:    zhoujing6918
+linkedin_username:  jing-zhou-411261ba
+jianshu_username:   7ecb9504c43c
+sofasofa_username:  1003445
+
+
+
+
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+
+
+
+
+
+
+
+# Featured Tags
+featured-tags: true                     # 是否使用首页标签
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+
+
