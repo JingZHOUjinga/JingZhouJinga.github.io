@@ -1,4 +1,5 @@
 #rules
+寄给[1]敟敠敡[2]他[3]在[NA]绍兴[NA]|3=+landey+主人+他+她+它+none,1=+%送的意图,2=+*人名~#收件人,rule-errand-receiver-name,[2].
 ————————————rule-errand-sender-addr-city————————
 在[4]深圳[3]的[NA]宝安区[2]寄件[1]|4=+在+来+none,1=+寄件+寄送,3=+%市级,2=+%县区级~#visitorname,rule-errand-sender-addr-city,[3].
 在[1]深圳[2]寄件[3]|1=+在+来+none,2=+%市级,3=+寄件~#visitorname,rule-errand-sender-addr-city,[2].
