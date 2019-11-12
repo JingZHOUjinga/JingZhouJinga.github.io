@@ -56,10 +56,15 @@ kramdown:
 
 
 
-# 评论系统
-Disqus（https://disqus.com/）
-disqus_username: jinganlper
-
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: f25b9884e6d3af15367f                           #生成的clientID
+  clientSecret: 513590d913ad90699ffdecc548b02c9865362c12    #生成的clientSecret
+  repo: jingzhoujinga.github.io    #仓库名称
+  owner: JingZHOUjinga    #github用户名
+  admin: JingZHOUjinga
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 
