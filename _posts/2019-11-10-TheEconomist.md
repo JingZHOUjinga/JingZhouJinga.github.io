@@ -12,6 +12,9 @@ tags:
 * [Was shutting Japan’s reactors deadlier than the Fukushima disaster?](#1)
 * [Asia’s trade negotiators decide they can no longer wait for India](#2)
 
+
+[我的博客]("悬停显示")<sup>[TM]</sup>
+
 <h2 id="1">Was shutting Japan’s reactors deadlier than the Fukushima disaster?</h2>
 `Snuggled`[^1依偎]`lush`[^2茂盛的] ﬁelds and forests, Namie was doomed by its proximity to the local 
 power plant. In 2011 the town’s 21,000 residents were ordered to 
