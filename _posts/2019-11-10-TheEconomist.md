@@ -32,16 +32,27 @@ The paper is part of a reassessment of Japan’s response to the  world’s wors
 It would have been bizarre if such a dramatic failure had not been  followed by a thorough safety review. A second meltdown would have been  vastly more damaging than the reactor shutdown, given that the first is  estimated to have cost more than $700bn. But whatever the merits of the  decision to `mothball`[^10暂停] all reactors, nuclear power remains unpopular in  Japan. Most people are opposed to restarting any reactors. Just nine  have come back online—and various lawsuits and pressure groups aim to  turn them off again. Evacuation orders for towns like Namie have been  lifted, yet 35,000 people refuse to return. Even if there is not that  much radiation, Japan continues to suffer from the `fallout`[^11核辐射].
 
 [^1依偎]:  If you snuggle somewhere, you settle yourself into a warm, comfortable position, especially by moving closer to another person. 
+
 [^2茂盛的]: Lush fields or gardens have a lot of very healthy grass or plants. 
+
 [^3疏散]:  To evacuate someone means to send them to a place of safety, away from a dangerous building, town, or area. 疏散; 使…撤离
+
 [^4设施]: Facilities are buildings, pieces of equipment, or services that are provided for a particular purpose. 设施
+
 [^5熄灭]: 终结；熄灭；电力瞬间中断
+
 [paper]:http://ftp.iza.org/dp12687.pdf
+
 [^6]:Matthew Neidell, Shinsuke Uchida and Marcella Veronesi, “Be Cautious  with the Precautionary Principle: Evidence from Fukushima Daiichi  Nuclear Accident” 
+
 [^7堆芯熔毁]: If there is meltdown in a nuclear reactor, the fuel rods start melting because of a failure in the system, and radiation starts to escape. (核反应堆的) 堆芯熔毁
+
 [^8猛增]: a sudden large increase in sth 猛增；急升
+
 [^9呼吸的]: Respiratory means relating to breathing. 呼吸的
+
 [^10暂停]：If someone in authority mothballs a plan, factory, or piece of equipment, they decide to stop developing or using it, perhaps temporarily. 把...束之高阁; 暂停
+
 [^11核辐射]:Fallout is the radiation that affects a particular place or area after a nuclear explosion has taken place. 核辐射
 
 <h2 id="2">Asia’s trade negotiators decide they can no longer wait for India</h2>
@@ -64,10 +75,17 @@ To maintain its geographical reach, the agreement has sacrificed some depth and 
 The partnership also leaves out the kinds of provisions on the environment, labour and state-owned enterprises that America insisted be included in a rival agreement, the Trans-Pacific Partnership, before it lost interest in writing trade rules—or following them. Because RCEP includes China (and TPP pointedly did not), the pact is often described as a “Beijing-led” initiative to write the rules of globalisation to its liking. But ASEAN bristles at that notion. It has organised the negotiations—almost 30 rounds of them. And its agreements are the sheaves of paper that RCEP is supposed to staple together. “Even though it’s always been painted as a China-led initiative…it has always been an ASEAN-led initiative,” says Ms Elms. “Which is why it’s taken so long.”
 
 [^1自力更生]: Self-reliance is the ability to do things and make decisions by yourself, without needing other people to help you. 自立
+
 [^2赤字]: A deficit is the amount by which something is less than what is required or expected, especially the amount by which the total money received is less than the total money spent. 亏损; 赤字
+
 [^3夸张的]: Something that is overblown makes something seem larger, more important, or more significant than it really is. 夸张的
+
 [^4刻薄的]: If you describe someone's language or behaviour as vitriolic, you disapprove of it because it is full of bitterness and hate, and so causes a lot of distress and pain. (言行)尖酸刻薄的
+
 [^5诱惑]: If you feel you want to do something or have something, even though you know you really should avoid it, you can refer to this feeling as temptation. You can also refer to the thing you want to do or have as a temptation. 诱惑
+
 [^6导致]: If one thing entails another, it involves it or causes it. 牵连; 导致
+
 [^7萌芽阶段的]: An embryonic process, idea, organization, or organism is one at a very early stage in its development. 萌芽阶段的; 非常初期的
+
 [^8优先的]: If you get preferential treatment, you are treated better than other people and therefore have an advantage over them. 优等的
