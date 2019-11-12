@@ -12,7 +12,7 @@ tags:
 * [Was shutting Japan’s reactors deadlier than the Fukushima disaster?](#1)
 * [Asia’s trade negotiators decide they can no longer wait for India](#2)
 
-
+欢迎来到[梵居闹市]( "梵居闹市")
 [我的博客]("悬停显示")<sup>[TM]</sup>
 
 <h2 id="1">Was shutting Japan’s reactors deadlier than the Fukushima disaster?</h2>
