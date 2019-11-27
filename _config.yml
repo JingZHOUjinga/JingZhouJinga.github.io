@@ -4,7 +4,7 @@ SEOTitle: Jinga的心流博客 | Jinga's Blog
 header-img: img/post-bg-rwd.jpg
 email: jingazhou＠163.com
 description: "Rome ne s'est pas faite en un jour."
-keyword: "Consultant, Data Scientist, Business Analyst, 行业研究，语言爱好者（英／法／德）, 数学专业"
+keyword: "Consultant, Data Scientist, NLPer, 行业研究，语言爱好者（英／法）, 数学专业"
 url: "http://jingzhoujinga.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jingzhoujinga/jingzhoujinga.github.io.git" # you code repository
@@ -12,17 +12,17 @@ github_repo: "https://github.com/jingzhoujinga/jingzhoujinga.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "君子慎独，行胜于言!"
-sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-zhihu_username:    zhou-jing-15-1
-github_username:    jingzhoujinga
+#zhihu_username:    zhou-jing-15-1
+#github_username:    jingzhoujinga
 wechat_username:    zhoujing6918
-linkedin_username:  jing-zhou-411261ba
-jianshu_username:   7ecb9504c43c
+#linkedin_username:  jing-zhou-411261ba
+#jianshu_username:   7ecb9504c43c
 sofasofa_username:  1003445
 
 
@@ -77,14 +77,3 @@ featured-condition-size: 0              # 相同标签数量大于这个数，�
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
-
-pace:
-  enable: true
-  # Themes list:
-  # big-counter | bounce | barber-shop | center-atom | center-circle | center-radar | center-simple
-  # corner-indicator | fill-left | flat-top | flash | loading-bar | mac-osx | material | minimal
-  theme: minimal
-
-
-
