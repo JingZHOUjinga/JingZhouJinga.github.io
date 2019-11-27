@@ -40,6 +40,7 @@ tags:
 * [Obituary](#7)
   * [Obituary: Huang Yong Ping died on October 20th ](#7.1)
 <h2 id="1">Books and arts</h2>
+
 ***
 <h3 id="1.1">A century ago America saved millions of Russians from starvation</h3>
 The Russian Job. By Douglas Smith.Farrar, Straus and Giroux; 320 pages; $28. Picador; £25. 
@@ -63,6 +64,8 @@ The misery they encountered in Russia strained their nerves to the point of brea
 Yet the [`duplicity`](  "If you accuse someone of duplicity, you mean that they are deceitful. 奸诈")<sup>口是心非</sup> and [`paranoia`](  "If you say that someone suffers from paranoia, you think that they are too suspicious and afraid of other people. 多疑; 恐惧")<sup>偏执狂</sup> of the Soviet government haunted the ARA’s operation to the very end. While publicly Bolshevik leaders showered the Americans with praise and thanks, the secret police instructed local officials: “Under no circumstances are there to be any large displays or expressions of gratitude made in the name of the people.” No sooner was the Russian job done than the authorities began to [`expunge`](  "If you expunge something, you get rid of it completely, because it causes problems or bad feelings. 清除; 抹去")<sup>擦去</sup> all memory of America’s help. 
 
 The edition of the Great Soviet Encyclopedia of 1950 described the ARA as a front “for spying and wrecking activities and for supporting counter-revolutionary elements”. Modern Russian textbooks barely mention the episode. But it is not just Russia that needs to be reminded of this story—so does America, which derived much of its 20th-century greatness from its values rather than military power. As Gorky told Hoover: “The generosity of the American people `resuscitates`<sup>复兴</sup> the dream of `fraternity`<sup>友谊</sup> among people at a time when humanity needs charity and compassion.”
+
+
 ***
 <h3 id="1.2">An imperial palace, a prison—and now a symbolic museum</h3>
 THE STAIRS rise elegantly, twisting towards the heavens. At the top is the small room where Emperor Menelik II prayed for God’s blessing as he dramatically enlarged Ethiopia’s territory in the last decades of the 19th century. The watchtower, as this wing of the palace is known, was also a perfect vantage point for surveying his subjects on the open plain beneath its windows. It was here that Menelik founded Addis Ababa, the Ethiopian capital, in 1886. The grand palace he built on a hilltop became the heart of each regime that succeeded his, through wars and revolutions. 
@@ -86,6 +89,7 @@ At the bottom of this heritage drive is a highly charged question: is Ethiopia a
 Abiy tends to stress nationhood, with its sense of gradual consolidation, rather than the frictions of empire; according to the museum, Ethiopia is a nation with ancient roots. But that, too, puts the prime minister `at odds`<sup>争执</sup> with those in his party who decry past imperial conquests. Some think he has been `precipitous`<sup>鲁莽的</sup> in opening Unity Park. “There needs to be a political consensus,” says Mohammed Girma, a religious scholar. “It’s a good idea but he should’ve consulted his Oromo constituency rather than rushing to build it.” 
 
 The museum’s overseers are [`unmoved`]( "If you are unmoved by something, you are not emotionally affected by it. 无动于衷的")<sup>无动于衷的</sup> by the criticisms. “We have to respect what happened in the past,” argues Abebaw. “We cannot always be at odds with it.” Tamrat, the director, is gathering exhibits for the rooms that remain empty. Many Ethiopian artefacts have been `looted`<sup>掠夺</sup>; others are still in private hands. Though some individuals have begun donating items, Tamrat says, others are cautious. After all, family homes can be safer than museums in a place where history is a battlefield.
+
 ***
 <h3 id="1.3">Palm Beach and the rise of American celebrity</h3>
 Palm Beach, Mar-a-Lago and the Rise of America’s `Xanadu`<sup>世外桃源</sup>. By Les Standiford.Atlantic Monthly Press; 288 pages; $27. 
@@ -99,6 +103,7 @@ Palm Beach, Mr Standiford observes in a book that will appeal to nose-pressed-ag
 It was also where, in 2005, Melania Knauss, a model, married reality-show host, future president and [`latter-day`](    "Latter-day is used to describe someone or something that is a modern equivalent of a person or thing in the past. (旧时的人或物的)当代翻版的")<sup>当代的</sup> lord of Mar-a-Lago Donald Trump, with Elton John and Hillary and Bill Clinton among the big names and net worths in attendance. Buying Mar-a-Lago and its [`furnishings`]( "If you furnish a room or building, you put furniture and furnishings into it. 装潢; 布置 (房间、建筑物)")<sup>装潢</sup> for $8m in 1985 was Mr Trump’s ticket to Palm Beach—now his permanent residence after he and New York fell out of love. Post had [`bequeathed`](  "If you bequeath your money or property to someone, you legally state that they should have it when you die. 遗赠")<sup>遗赠</sup> the property to the National Park Service in 1973, for use as a winter White House, but in 1981 Congress returned it to the Post Foundation as too expensive to maintain. It was put on the market and Mr Trump [`snapped it up`](   "If you snap something up, you buy it quickly because it is cheap or is just what you want. 争购")<sup>抢购</sup>. 
 
 Now it is a private club, with a portrait of Post on a wall in the former library, across from a younger version of the current [`proprietor`]( "The proprietor of a hotel, shop, newspaper, or other business is the person who owns it. 业主")<sup>业主</sup> in tennis gear. The announcement, when the club opened, that Prince Charles and Lady Diana had bought memberships was “rubbish”, said Buckingham Palace; but Mr Trump was `undeterred`<sup>未受阻的</sup>. “Even people who hate me are joining the club,” he crowed. The initiation fee is now said to be $200,000. One day, probably, rising seas will sink Palm Beach and leave behind a level, if [`soggy`](    "Something that is soggy is unpleasantly wet. 湿乎乎的")<sup>透湿的</sup>, playing field.
+
 ***
 <h3 id="1.4">The art and loves of George Eliot</h3>
 In Love with George Eliot. By Kathy O’Shaughnessy.Scribe; 400 pages; £16.99. 
@@ -110,6 +115,7 @@ She `reluctantly`<sup>不情愿地</sup> revealed her true identity after the pu
 “In Love with George Eliot”, Kathy O’Shaughnessy’s sensitive, `impeccably`<sup>无可挑剔地</sup> researched and deeply pleasurable debut novel, charts Eliot’s development as a writer and growing celebrity, her sincere happiness with Lewes, terrible grief at his death and unexpected joy at her new (and finally respectable) married status. As the best historical novels do, it absorbs the reader to such an extent that, even if they know the outline of the story, each page is a revelation. Quoting from original letters and other documents, it shimmers with the `refracted`<sup>折射的</sup> light of another age; the account of a modern-day love triangle between three Eliot experts, which Ms O’Shaughnessy intercuts with chapters on the novelist and her circle, enhances the main picture. 
 
 Eliot’s own unconventional looks, lifestyle and opinions are rendered `compellingly`<sup>咄咄逼人地</sup>. To many—including some well-drawn, `fervent`<sup>热心的</sup> female acolytes—her combination of sincerity, `neediness`<sup>贫穷</sup>, ambition and sympathy were `alluring`<sup>吸引人的</sup>. These qualities found a natural outlet in her writing. “It seems to me we can never give up longing and wishing while we are thoroughly alive,” remarks a character in “The Mill on the Floss”. In her own novel, Ms O’Shaughnessy brings this mix of intensity and playfulness winningly to life.
+
 ***
 <h3 id="1.5">The slippery talent of Emmanuel Carrère</h3>
 97,196 Words. By Emmanuel Carrère. Translated by John Lambert.Farrar, Straus & Giroux; 294 pages; $28. Jonathan Cape; £18.99. 
@@ -123,8 +129,10 @@ Mr Carrère’s trademark style crystallised while he was working on his book �
 This accidental style has since become a sort of [`credo`]( "A credo is a set of beliefs, principles, or opinions that strongly influence the way a person lives or works. 信条")<sup>信条</sup>. It is `mendacious`<sup>虚假的</sup>, Mr Carrère suggests, for authors to pretend that they exist above or outside a  `rigorously`<sup>严厉地</sup> crafted piece of writing, as Capote did for instance. “I don’t think you can put yourself in other people’s positions. Nor should you,” he has argued. “All you can do is occupy your own, as fully as possible, and say that you are trying to imagine what it’s like to be someone else, but say it’s you who’s imagining it, and that’s all. 
 
 It is hard to tell whether this is philosophical high-mindedness or `faux`<sup>人造的</sup> naivety—because the core of Mr Carrère’s talent is precisely that he brings readers into sympathetic contact with others, powerful and powerless, insiders and outsiders. His own textual persona is less flesh-and-blood than an [`ethereal`]( "Someone or something that is ethereal has a delicate beauty. 优雅的")<sup>优雅的</sup>, emotionally distant presence. His “I” becomes a transparency, a way of portraying others—whether it be a bereaved parent or President Emmanuel Macron—through himself. It is a masterful illusion. The more words Mr Carrère expends on his own life, the farther away he seems, and the closer the reader gets to the lives of others.
+
 ***
 <h2 id="2">Leaders</h2>
+
 ***
 <h3 id="2.1">A new type of genetic profiling promises cleverer, better-looking children</h3>
 DEBATE ABOUT using science to create “bespoke” human beings of one sort or another usually revolves around the ideas of genetic engineering and cloning. People worry about these for two reasons. One is practical. The [`tinkering`]( "If you tinker with something, you make some small changes to it, in an attempt to improve it or repair it. 小修改")<sup>小修改</sup> involved could end up harming the resulting individual. The other is a more [`visceral`](    "Visceral feelings are feelings that you feel very deeply and find it difficult to control or ignore, and that are not the result of thought. 发自肺腑的; 出自内心的")<sup>发自内心的</sup> dislike of interfering with the process of reproduction, perhaps best [`encapsulated`]( "To encapsulate particular facts or ideas means to represent all their most important aspects in a very small space or in a single object or event. 概括")<sup>概况</sup> in the phrase “playing God”. 
@@ -146,6 +154,7 @@ What all this [`amounts to`](   "If you say that one thing amounts to something 
 For a single generation, that may not matter too much to the rest of society. It would be but one extra privilege that the rich enjoy. Piled generation on generation, however, it really might create a genetic elite. SNP-profiling is already used to enhance desired attributes in [`livestock`](   "Animals such as cattle and sheep which are kept on a farm are referred to as livestock. 家畜")<sup>家畜</sup>, so it seems reasonable to assume it will work on people. 
 
 Perhaps that is tomorrow’s problem. For the moment there seems no reason beyond envy to oppose embryo SNP-profiling. But, from H.G. Wells’s Eloi in “The Time Machine” to Aldous Huxley’s Alphas in “Brave New World”, science fiction is full of breeding programmes for elite humans that have gone wrong. Sci-fi always enjoys portraying dystopias, and mostly they do not come true. But it might be wise to debate the matter now, just in case this time people really are unknowingly playing God.
+
 ***
 <h3 id="2.2">Assessing Emmanuel Macron’s apocalyptic vision</h3>
 TODAY’S EUROPE owes its existence to the United States. America fought two world wars on European soil; American diplomacy was midwife to what became the European Union; American arms protected western Europe from Soviet invasion; and American statesmen oversaw German unification. Now, in a dramatic plea to all Europeans, France’s president, Emmanuel Macron, has warned that America is cutting Europe loose. The old continent is “on the edge of a [`precipice`]( "If you say that someone is on the edge of a precipice, you mean that they are in a dangerous situation in which they are extremely close to disaster or failure. 险境; 危局")<sup>险境</sup>”, he warns. Unless it wakes up, “we will no longer be in control of our destiny.” 
@@ -176,6 +185,7 @@ Dig deeper
 
 Briefing (November 7th): A president on a mission Transcript: Emmanuel Macron in his own words The Intelligence podcast: “He talked about Europe in almost apocalyptic terms”— Macron's interview 
 
+
 ***
 <h3 id="2.3">Billionaires are only rarely policy failures</h3>
 BASHING BILLIONAIRES is gaining popularity—especially among candidates to be America’s president. Elizabeth Warren wants to take up to 6% of their wealth in tax every year. Bernie Sanders says they “should not exist”. “Every billionaire is a policy failure,” goes a common left-wing slogan. In Britain’s election, too, the super-rich are under fire. Jeremy Corbyn, the leader of the Labour Party, says that a fair society would contain none. On October 31st he vowed to [`“go after” Britain’s`]( "If you go after something, you try to get it, catch it, or hit it. 追求; 追捕; 追击")<sup>追击</sup> `plutocrats`<sup>富豪</sup>, [`singling out`](    "If you single someone out from a group, you choose them and give them special attention or treatment. 选出; 挑出")<sup>挑出</sup> five individuals and bemoaning a “corrupt system”. 
@@ -195,6 +205,7 @@ Wealth is worrying when it becomes `entrenched`<sup>根深蒂固的</sup> or shi
 A broader agenda of attacking rents while maintaining dynamism would weaken excessive intellectual-property and copyright protections, which often last too long. (Selling Lucasfilm more than three decades after the first “Star Wars” film should not have netted George Lucas $4bn.) It would shake up [`antitrust`](   "In the United States, antitrust laws are intended to stop big companies taking over their competitors, fixing prices with their competitors, or interfering with free competition in any way. 反垄断的")<sup>反垄断的</sup> enforcement to promote competition in old and new industries alike. Most important, it would fix America’s campaign-finance laws to rid its political system of corporate capture at both state and federal level. 
 
 Doing all this would achieve much more than an [`indiscriminate`](  "If you describe an action as indiscriminate, you are critical of it because it does not involve any careful thought or choice. 任意而为的")<sup>任意而为的</sup> attack on the rich—and without the associated damage. By all means, correct policy failures. But billionaires are usually the wrong target.
+
 ***
 <h3 id="2.4">How to stop Cameroon collapsing into a full-fledged civil war</h3>
 FOR 37 YEARS one man has ruled Cameroon, a `staggeringly`<sup>摇晃地</sup> corrupt, oil-rich state in central Africa. President Paul Biya is an old-fashioned `autocrat`<sup>独裁者</sup>. When democracy swept across Africa after the cold war ended, he called it a “distasteful passing fetish”. Then he realised he would attract less foreign criticism if he quietly intimidated opponents and rigged elections instead of banning them. He has done so ever since, and kept on good terms with Western powers by posing as a champion of stability in a fissile region. His troops, trained and equipped by France, Israel and America, battle the `jihadists`<sup>圣战主义者</sup> of Boko Haram and Islamic State around Lake Chad. They also regularly don blue helmets to keep peace in countries such as the Central African Republic. Yet Mr Biya cannot keep the peace at home. 
@@ -211,6 +222,7 @@ The longer the fighting persists, the harder it will be to resolve. With the arm
 
 Outsiders should press Mr Biya to make peace. President Donald Trump has rightly scaled back military assistance because of [`atrocities`]( "An atrocity is a very cruel, shocking action. 暴行")<sup>暴行</sup> committed by the army. He has also kicked Cameroon out of a programme which grants duty-free access to the US market to African countries that respect human rights. European governments should also turn the screws, especially France, Mr Biya’s closest ally. The ageing strongman once said that only one-party rule could hold Cameroon together. In fact, his overcentralised autocracy has created pressures that could blow it apart. Only dialogue and [`devolution`](   "Devolution is the transfer of some authority or power from a central organization or government to smaller organizations or government departments. (中央机构或政府权力的) 下放")<sup>权力下放</sup> can save it.
 
+
 ***
 <h3 id="2.5">Women in public life are increasingly subject to sexual slander. Don’t believe it</h3>
 ADULTERER, PERVERT, traitor, murderer. In France in 1793, no woman was more `relentlessly`<sup>残酷地</sup> slandered than Marie Antoinette. Political [`pamphlets`](   "A pamphlet is a very thin book with a paper cover that gives information about something. 小册子")<sup>小册子</sup> spread baseless rumours of her [`depravity`](  "Depravity is very dishonest or immoral behaviour. 堕落")<sup>堕落</sup>. Some drawings showed her with multiple lovers, male and female. Others portrayed her as a `harpy`<sup>鸟身女妖</sup>, a `notoriously`<sup>众所周知地</sup> disagreeable mythical beast that was half `bird-of-prey`<sup>食肉鸟</sup>, half woman. Such [`mudslinging`](   "If you accuse someone of mudslinging, you are accusing them of making insulting, unfair, and damaging remarks about their opponents. 诽谤; 中伤")<sup>诽谤</sup> served a political purpose. The revolutionaries who had overthrown the monarchy wanted to tarnish the former queen’s reputation before they cut off her head. 
@@ -226,8 +238,10 @@ High-tech sexual slander has not replaced the old-fashioned sort, which remains 
 Stamping out the problem altogether will be impossible. Anyone can make a deepfake sex video, or hire someone to do it, for a pittance, and then distribute it anonymously. Politicians will inevitably be targets. Laws against libel or invasion of privacy may deter some abuses, but they are not much use when the `perpetrator`<sup>犯罪者</sup> is unknown. Reputable tech firms will no doubt try to remove the most [`egregious`]( "Egregious means very bad and offensive. 极坏的; 极恶劣的")<sup>极坏的</sup> content, but there will always be other platforms, some of them hosted by regimes that actively `sow`<sup>播种</sup> disinformation in the West. 
 
 So the best defence against sexual lies is [`scepticism`](  "Scepticism is great doubt about whether something is true or useful. 怀疑")<sup>怀疑主义</sup>. People should assume that videos showing female politicians naked or having sex are probably `bogus`<sup>伪造的</sup>. Journalists should try harder to expose the `peddlers`<sup>传播者</sup> of fake [`footage`](    "Footage of a particular event is a film of it or the part of a film which shows this event. (描述某一事件的) 片段镜头")<sup>片段镜头</sup>, rather than mindlessly linking to it. Some day, one hopes, voters may even decide that it is none of their business what public figures look like under their clothes, or which [`consenting adults`]( "A consenting adult is a person who is considered to be old enough to make their own decisions about who they have sex with. 达到可以自主决定与谁发生性行为年龄的") they sleep with.
+
 ***
 <h2 id="3">Briefing</h2>
+
 ***
 <h3 id="3.1">Emmanuel Macron on Europe’s fragile place in a hostile world</h3>
 WHEN EMMANUEL MACRON stepped from his presidential plane onto the red carpet at the airport in Shanghai on November 4th, two flags were fluttering in the warm air: one Chinese, the other the French tricolore. This was only to be expected for a visiting French president, whom President Xi Jinping treated to two [`banquets`](   "A banquet is a grand formal dinner. 正式宴会")<sup>正式宴会</sup> and a private dinner, in two different cities. Yet the absence of a European Union flag was a small visual reminder of the scale of the diplomatic challenge Mr Macron has set himself. For the French president went to China this week not just to speak for France, but for Europe. 
@@ -295,8 +309,10 @@ Yet, as Mr Macron displayed in China this week, he will seize the mantle if he c
 Dig deeper 
 
 Leader (November 7th): “A continent in peril”Transcript: Emmanuel Macron in his own words The Intelligence podcast: “He talked about Europe in almost apocalyptic terms”— Macron's interview 
+
 ***
 <h2 id="4">The world this week</h2>
+
 ***
 <h3 id="4.1">Business this week</h3>
 Masayoshi Son, the chief executive of SoftBank, acknowledged that he made a mistake by betting on WeWork, as his group revealed a $4.6bn write-down of its investment in the office-rental startup. Overall, SoftBank reported a quarterly net loss of ¥700bn ($6.4bn)—“red ink of the deepest red”, said an unusually `contrite`<sup>悔悟的</sup> Mr Son. The Japanese `conglomerate`<sup>集团</sup> had to rescue WeWork after it abandoned an IPO amid questions about its valuation and a shortage of cash. Mr Son is now taking steps to [`beef up`](  "If you beef up something, you increase, strengthen, or improve it. 加强")<sup>加强</sup> oversight of SoftBank’s many interests, such as demanding at least one seat on the board of any firm it sinks money into. See article. 
@@ -322,6 +338,7 @@ Malaysia’s prime minister, Mahathir Mohamad, said he was prepared to take Gold
 One of the pioneers of America’s `shale-gas`<sup>页岩气</sup> revolution, Chesapeake Energy, warned in a filing that it was in danger of failing as a “going concern” if cheap gas prices persist. The company has amassed almost $10bn in debt, five times its market value, amid a glut in American oil and gas output, which has driven prices down. 
 
 The British government banned fracking in England, after an official report found that it was not possible to predict when and where earth tremors caused by the process for extracting shale gas might occur. Environmentalists were delighted. Others accused the government of pulling a pre-election `stunt`<sup>噱头</sup>. See article. 
+
 ***
 <h3 id="4.2">Politics this week</h3>
 As the British general election campaign officially got under way a stream of MPs announced they would not stand again. So far over 70 have stepped down, more than twice the number who chose not to face the electorate in 2017. More than 60 of those supported Remain, and most represented constituencies that voted for Brexit. The Conservatives’ campaign got off to a bad start, with the `resignation`<sup>辞职</sup> of a cabinet minister. Polls still give them a double-digit lead over Labour. See article. 
@@ -363,8 +380,10 @@ Elizabeth Warren, one of the leading candidates to be the Democratic presidentia
 Beto O’Rourke dropped out of the Democratic race. Once the darling of the left, Mr O’Rourke struggled to make an impact in a crowded field. 
 
 The Democrats did well in a smattering of elections, winning the governor’s race in Kentucky and taking control of the state legislature in Virginia for the first time in 20 years. The Republicans held on to the governor’s mansion in deep-red Mississippi. See article. 
+
 ***
 <h2 id="5">Business</h2>
+
 ***
 <h3 id="5.1">A postcard from Hong Kong</h3>
 TO A VISITOR from messy Mumbai, on the surface Hong Kong seems, despite months of anti-government protests, in order. Busy shops, clean streets, trains that run on time—or at all. CLP, the 118-year-old electric utility, has just moved from its old headquarters in Kowloon to a new one over a shopping mall (inevitably). Both digs are (inevitably) to be redeveloped. Business as usual, then? 
@@ -376,6 +395,7 @@ A bartender in Wanchai, a busy commercial district, says business is slow. Water
 The [`upheaval`](   "An upheaval is a big change which causes a lot of trouble, confusion, and worry. 动乱")<sup>动乱</sup> appears to have narrowed Hong Kong’s intellectual bandwidth, too. A decade ago business and finance types would talk about all of Asia. Now they speak of little besides Hong Kong and mainland China. This is not wholly irrational. At one investment bank half of [`equity`](    "In finance, your equity is the sum of your assets, for example the value of your house, once your debts have been subtracted from it. 资产净值")<sup>资产净值</sup> trading still involves American shares, but one-third is now China—more than Japan, South Korea, Australia, Taiwan and India combined. 
 
 A Hong Kong [`tycoon`]( "A tycoon is a person who is successful in business and so has become rich and powerful. (工商界的) 大亨")<sup>巨头</sup> of Indian `descent`<sup>血统</sup> says that if he were young, he might move back to his ancestral land. His children are now at the age (early 30s) when in years past the Sassoons, an Asian trading dynasty, would dispatch them to `entrepots`<sup>贸易中心</sup> to advance the family concern. They are choosing to stay put—because India, the obvious destination, has disappointed too much. Hong Kong’s disappointments have not made it unlivable. The Hang Seng stockmarket index swooned over the summer, but has since recovered some of the decline. Hope of a return to normal lingers on. For now.
+
 ***
 <h3 id="5.2">A three-way battle over control of PG&E</h3>
 LOCAL UTILITIES’ predictable businesses and steady dividends have earned them the `moniker`<sup>绰号</sup> “widow-and-orphan shares”. Not in California. Pacific Gas & Electric Company (PG&E), its biggest electric utility, declared bankruptcy in January, citing $30bn of potential `liabilities`<sup>债务</sup> arising from its role in causing deadly wildfires. Its share price is down by nearly 90% since 2017. It recently shut off power to millions of Californians to prevent its installations from sparking new blazes. Customers and politicians fumed. Meanwhile, a battle for control of the firm rages on. 
@@ -391,6 +411,7 @@ Then there is California’s “inverse condemnation”: an [`idiosyncratic`](  
 Last July the state created a $21bn wildfire-insurance fund, to be financed equally by private utilities and customers. Helpfully, the scheme pools risk. But it is too small. It limits the pool to California, notes Joseph Scalise of Bain, a consultancy. States in which utilities have access to insurers and reinsurers can spread risk globally. 
 
 The [`hapless`](    "A hapless person is unlucky. 不幸的")<sup>倒霉的</sup> utility could yet be hit with huge fire-related expenses this dry season, which ends in December. These could wipe out its remaining equity. Bondholders may then back out of promised capital injections. Government may be left on the hook. Whoever wins the battle for control of PG&E, ordinary Californians will pay—through taxes or higher electricity bills.
+
 ***
 <h3 id="5.3">Hard times for SoftBank</h3>
 COMPANIES AND financial vehicles that get into trouble often have common characteristics: high debts, accounting that is hard to understand, `opaque`<sup>不透明的</sup> assets that are hard to value and managers who have a hard time facing reality. That more or less fits the description of SoftBank, a giant Japanese telecoms and technology conglomerate founded and run by Masayoshi Son, which on November 6th announced a $6bn loss after `bailing out`<sup>放弃</sup> WeWork, a loss-making property firm. Speaking in Tokyo, Mr Son put on a defiant display and insisted that SoftBank has a valuable portfolio of tech assets that the outside world does not appreciate. But soon enough, like most troubled businesses, SoftBank will have to confront its underlying weakness: a lack of cashflow to back up all of the hype. It may have to shrink and could end up being broken up. 
@@ -410,6 +431,7 @@ The third worry is that firms and funds that SoftBank invests in have too much d
 Mr Son’s instinct is to expand by launching a second $100bn-plus Vision Fund, from which SoftBank could presumably earn fees and to which it could perhaps sell assets, while remaining in control. But the WeWork [`fiasco`](  "If you describe an event or attempt to do something as a fiasco, you are emphasizing that it fails completely. 彻底的失败")<sup>惨败</sup> raises profound doubts about his judgment and SoftBank’s valuation process. 
 
 From soft to soggy.Instead, the obvious path for SoftBank is a dose of [`austerity`](   "Austerity is a situation in which people's living standards are reduced because of economic difficulties. 经济紧缩")<sup>紧缩</sup>. That would mean stemming the losses at the tech firms owned by the Vision Fund and selling down more assets; SoftBank is already trying to merge Sprint with T-Mobile, a rival. It would also require Mr Son to `cede`<sup>放弃</sup> control. His vision of SoftBank involves one man being largely responsible for hundreds of billions of dollars—and for juggling no small number of competing objectives and interest groups. If you think that approach still makes sense you have to be soft in the head.
+
 ***
 <h3 id="5.4">How to make your firm more diverse and inclusive</h3>
 To: CEOcc: PASubject: A hard-headed guide to corporate diversity 
@@ -457,6 +479,7 @@ Many employers—yourself included—would be horrified to learn that they impli
 That is a lot to take in. But unless you do, your most valuable resource—workers—will not be as good as it could be. Best to get ahead of the problem. It isn’t that hard. And it can pay off mightily. 
 
 Yours,Shareholder
+
 ***
 <h3 id="5.5">Japan Inc has thrived in China of late</h3>
 IN 1977, FIVE years after China and Japan re-established diplomatic relations, Miyakoshi, an electronics manufacturer, became the first Japanese firm to receive a business permit from the Communist Party, to make cassette-tape recorders. In 2017 around 32,000 Japanese companies had investments worth $117bn on the mainland, one of the biggest foreign corporate footprints. Last year they poured close to $11bn into China, up by half since 2010 and not far off America’s long-stagnating tally. Big listed Japanese firms derived 17% of their overseas profits from China, according to calculations by Jesper Koll, a fund manager in Tokyo. 
@@ -478,6 +501,7 @@ Japanese firms have got better at dealing with Chinese grievances over Japan’s
 Between the eagle and the dragon 
 
 Then there is the spectre of Sino-American rivalry. Japanese firms have long benefited from geopolitical proximity to America and geographical closeness to China. The two are the most important markets for many Japanese companies, whose supply chains `criss-cross`<sup>十字形的</sup> both. As the superpowers jostle over everything from trade to technology, this blessing looks ever more like a curse. Because Japan’s firms are more exposed to China than American ones are—China is Japan’s largest trading partner—they would find it harder to give up on the Chinese market. It would be “a nightmare” to have to choose between Japan’s biggest neighbour and its chief strategic ally, says Ichiro Hara of Keidanren, a Japanese business lobby. As geopolitics [`impinges`](    "Something that impinges on you affects you to some extent. 对...有重大影响; 冲击")<sup>撞击</sup> on globalised commerce, the choice may become inevitable.
+
 ***
 <h3 id="5.6">McDonald’s fires its boss over a workplace romance</h3>
 THE SWIFTNESS of Steve Easterbrook’s exit from McDonald’s matched that of Don Thompson, his predecessor, in 2015. Mr Thompson was pushed out for poor performance. Not Mr Easterbrook, who was widely admired for doubling the American fast-food giant’s share price. On November 3rd the company announced it was sacking its British-born boss because of “a recent consensual relationship with an employee”. Chris Kempczinski, who runs its domestic business, takes over. 
@@ -489,6 +513,7 @@ In America Mr Easterbrook’s sacking was, pace Mr George, broadly applauded. #M
 Mr Easterbrook is not the first company boss booted out over a dalliance at work—and unlikely to be the last. In 2018 Intel’s chief executive, Brian Krzanich, resigned after the chipmaker discovered a similar affair. One in three American adults are or have been in a workplace romance, according to a poll this year by the Society for Human Resource Management, an association of HR professionals. 
 
 Mr Kempczinski will emulate Mr Easterbrook’s strategy of switching to healthier fare and digitising operations. Investors seem to think the new boss can pull it off; he helped devise it. The firm’s share price has rebounded after dipping on the news. Mr Kempczinski calls Mr Easterbrook a “patient and helpful mentor”. His predecessor’s parting lesson will no doubt stay with him for a while.
+
 ***
 <h3 id="5.7">Take the money and run</h3>
 A  LATIN PHRASE beloved by every old-fashioned British schoolmaster was mens sana in corpore sano—a healthy mind in a healthy body. With that, the pedagogue would dispatch some shivering schoolchild in vest and shorts on a three-mile cross-country run. 
@@ -512,6 +537,7 @@ This approach takes advantage of a behavioural bias known as loss aversion—peo
 The problem is that many people are too optimistic about their health, underestimating the risks they face. This means that participation in workplace exercise schemes tends to be low, around 7% in the sample studied by RAND. 
 
 Firms are not the only ones that can encourage a healthier lifestyle; friends and families are likely to be more important. But businesses can play a bigger role. If RAND is right, this may bring them financial benefits. Company taskmasters may yet grow fond of an adapted [`adage`]( "An adage is something that people often say and that expresses a general truth about some aspect of life. 谚语"): mens sana in corporate sano. 
+
 ***
 <h3 id="5.8">TikTok’s silly clips raise some serious questions</h3>
 IF THIS ARTICLE were a TikTok video, it would already be almost over—and you would be smiling. TikTok’s 15-second clips are all the rage among teenage netizens. The app was downloaded more than 750m times in the past 12 months, more than Facebook plus its sister services, Instagram and WhatsApp, combined. Fun aside, TikTok raises serious questions—about data geopolitics, the power of internet incumbents and who sees what online. 
@@ -529,6 +555,7 @@ Critics of artificial intelligence are also watching the Chinese app closely. Wh
 All these worries would be [`allayed`]( "If you allay someone's fears or doubts, you stop them feeling afraid or doubtful. 消除 (恐惧、疑虑)")<sup>消除</sup> if TikTok turns out to be a passing [`fad`](  "You use fad to refer to an activity or topic of interest that is very popular for a short time, but which people become bored with very quickly. 一时的狂热")<sup>时尚</sup>. In a way, the app is only riding on other social networks. It relies on people’s Facebook or Twitter accounts for many sign-ins. TikTok owes part of its success to relentless advertising on rival services. According to some estimates, it spent perhaps $1bn on social-media ads in 2018. At the same time, many who download TikTok quickly tire of its endless digital sugar-rush. 
 
 Slowing growth may not stop politicians from hobbling the app. They could decide to bar it from America altogether. For once, Mr Zuckerberg would be cheering them on.
+
 ***
 <h2 id="6">Science and technology</h2>
 <h3 id="6.1">Modern genetics will improve health and usher in “designer” children</h3>
@@ -591,8 +618,10 @@ Stephen Hsu of Michigan State University, one of Genomic Prediction’s founders
 This is plausible. Before 2008, when the first SNP chips for cattle became available, the annual milk yield of dairy cows in America had been increasing at about 50kg per year. After six years of chip-based polygenic selection, the rate of increase had doubled to more than 100kg per year. This suggests the technique is powerful—in cattle at least. Despite Dr Hsu’s optimism, however, pleiotropism has reared its head in these animals. They have become less fertile and have weaker immune systems. 
 
 In the end, then, it is generally a good idea to remember that human beings have already been optimised by a powerful agent called natural selection. Trade-offs between different pieces of physiology, even in domestic animals, will have been forged in the crucible of evolution and will generally be optimal, or close to it. Genetic tinkering may sometimes improve things. But by no means always. 
+
 ***
 <h2 id="7">Obituary</h2>
+
 ***
 <h3 id="7.1">Obituary: Huang Yong Ping died on October 20th</h3>
 CREEPY CRAWLIES [`intrigued`](  "If you are intrigued by something, especially something strange, it interests you and you want to know more about it. 感兴趣的") him. Beetles, centipedes, cockroaches, crickets, geckos, toads and snakes. The way they devoured each other while at the same time providing sustenance for their fellow creatures was symbolic of humans’ existence on Earth, he felt, and he poured them into “Theatre of the World”, one of his best-known works. Best of all were the snakes. Where the River Loire empties into the Bay of Biscay in his adopted France, you can see one of his colossal shimmering serpents emerge from the water as the tide recedes; at times it looks like a sea snake, at others an earthly reptile. He made one for the Shanghai Power Station of Art, and another for a show in Queensland, Australia. Both were skeletons of creatures big enough to have devoured others, yet it was their own flesh that had withered to nothing. In 2016 he made his biggest serpent yet, a 254-metre-long beast (pictured) that coiled and roiled over islands of sea containers stacked around the nave of the Grand Palais in Paris, its unhinged jaw open so wide it looked as if it could swallow the world. 
@@ -608,5 +637,6 @@ He had learned early on about Duchamp and the Dadaist movement through a few pho
 Mr Huang was lucky to come of age just as the Chinese avant-garde, known as the ’85 New Wave, was taking off. He was lucky too to fetch up in France, where artists and artistic theories were part of mainstream culture. In 1999 he represented France at the Venice Biennale, and on the day it opened Catherine Trautmann, the culture minister, handed the artist his first French passport. Becoming French cost him his Chinese citizenship and should logically have made him persona [`non grata`](    "Current managing director Dominic Barton personally called Gupta to tell him he was now persona non grata at the firm.  当前的常务董事鲍达民亲自致电古普塔，称他如今被公司列为不受欢迎的人。") in China. Yet the opposite proved true. 
 
 In 2000 he returned home for the first time in over a decade. Where once his works were collected almost exclusively by Western buyers such as François Pinault and Bernard Arnault, now he was sought out by Chinese museums, including M+, which will open in Hong Kong next year, and the Red Brick Art Museum on the outskirts of Beijing. Like the serpents he loved making, he was able to slip silently across frontiers, making works that were deeply political yet never dissident. For the 2000 Shanghai Biennial, he created “Bank of Sand, Sand of Bank”, a 20-tonne replica of the British-designed former HSBC Bank, which became a Communist government building after 1949 and in the 1990s was the headquarters of the Pudong Development Bank. Made of sand, thinly laced with cement, the work was designed to crumble away. In France it was seen as a critique of dog-eat-dog capitalism; in China as a comment on the weak heart of colonialism. He revelled in the ambiguity, which is why when he died suddenly of a brain haemorrhage, both France and China claimed him as their own.
+
 
 ***
