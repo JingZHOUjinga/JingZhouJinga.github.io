@@ -10,35 +10,35 @@ tags:
     - The Economist
 ---
 * [Books and arts](#1)
-* [A century ago America saved millions of Russians from starvation](#1.1)
-* [An imperial palace, a prison—and now a symbolic museum](#1.2)
-* [Palm Beach and the rise of American celebrity](#1.3)
-* [The art and loves of George Eliot](#1.4)
-* [The slippery talent of Emmanuel Carrère](#1.5)
+  * [A century ago America saved millions of Russians from starvation](#1.1)
+  * [An imperial palace, a prison—and now a symbolic museum](#1.2)
+  * [Palm Beach and the rise of American celebrity](#1.3)
+  * [The art and loves of George Eliot](#1.4)
+  * [The slippery talent of Emmanuel Carrère](#1.5)
 * [Leaders](#2)
-* [A new type of genetic profiling promises cleverer, better-looking children.](#2.1)
-* [Assessing Emmanuel Macron’s apocalyptic vision ](#2.2)
-* [Billionaires are only rarely policy failures ](#2.3)
-* [How to stop Cameroon collapsing into a full-fledged civil war](#2.4)
-* [Women in public life are increasingly subject to sexual slander. Don’t believe it](#2.5)
+  * [A new type of genetic profiling promises cleverer, better-looking children.](#2.1)
+  * [Assessing Emmanuel Macron’s apocalyptic vision ](#2.2)
+  * [Billionaires are only rarely policy failures ](#2.3)
+  * [How to stop Cameroon collapsing into a full-fledged civil war](#2.4)
+  * [Women in public life are increasingly subject to sexual slander. Don’t believe it](#2.5)
 * [Briefing](#3)
-* [Emmanuel Macron on Europe’s fragile place in a hostile world](#3.1)
+  * [Emmanuel Macron on Europe’s fragile place in a hostile world](#3.1)
 * [The world this week](#4)
-* [Business this week ](#4.1)
-* [Politics this week ](#4.2)
+  * [Business this week ](#4.1)
+  * [Politics this week ](#4.2)
 * [Business](#5)
-* [A postcard from Hong Kong ](#5.1)
-* [A three-way battle over control of PG&E ](#5.2)
-* [Hard times for SoftBank](#5.3)
-* [How to make your firm more diverse and inclusive](#5.4)
-* [Japan Inc has thrived in China of late ](#5.5)
-* [McDonald’s fires its boss over a workplace romance](#5.6)
-* [Take the money and run](#5.7)
-* [TikTok’s silly clips raise some serious questions](#5.8)
+  * [A postcard from Hong Kong ](#5.1)
+  * [A three-way battle over control of PG&E ](#5.2)
+  * [Hard times for SoftBank](#5.3)
+  * [How to make your firm more diverse and inclusive](#5.4)
+  * [Japan Inc has thrived in China of late ](#5.5)
+  * [McDonald’s fires its boss over a workplace romance](#5.6)
+  * [Take the money and run](#5.7)
+  * [TikTok’s silly clips raise some serious questions](#5.8)
 * [Science and technology](#6)
-* [Modern genetics will improve health and usher in “designer” children](#6.1)
+  * [Modern genetics will improve health and usher in “designer” children](#6.1)
 * [Obituary](#7)
-* [Obituary: Huang Yong Ping died on October 20th ](#7.1)
+  * [Obituary: Huang Yong Ping died on October 20th ](#7.1)
 ***
 <h2 id="1">Books and arts</h2>
 ***
@@ -55,7 +55,7 @@ Having come to power on the promise to provide bread and end war, the Bolsheviks
 
 The appeal struck a chord with Herbert Hoover, founding chief of the American Relief Administration (ARA). The future president responded not out of sympathy for the “murderous tyranny” of the Bolshevik regime, but from faith in America’s mission—and ability—to improve the world. If children were starving, America was obliged to ease their suffering. “We must make some distinction between the Russian people and the group who have seized the government,” Hoover argued. 
 
-The ARA’s insistence on complete autonomy made the Soviet government suspicious, as did its pledge to help without regard to “race, creed or social status”. After all, the regime had liquidated<sup>清算</sup> entire classes of citizens and nationalised not only private property but human life. Still, given a choice between losing face or losing the country, the Bolsheviks conceded the ARA’s conditions—while putting the operation under surveillance by the secret police. 
+The ARA’s insistence on complete autonomy made the Soviet government suspicious, as did its pledge to help without regard to “race, creed or social status”. After all, the regime had `liquidated`<sup>清算</sup> entire classes of citizens and nationalised not only private property but human life. Still, given a choice between losing face or losing the country, the Bolsheviks conceded the ARA’s conditions—while putting the operation under surveillance by the secret police. 
 
 Mr Smith’s book is not a political history, however. It is principally a reconstruction of the lives of those ARA men, many from military backgrounds, who over two and a half years in effect took over the functions of civil government in Russia, feeding some 10m people. In the Volga region, where residents were driven by hunger to boil and eat human flesh, the ARA organised kitchens and transport, distributed food and rebuilt hospitals. 
 
@@ -149,14 +149,6 @@ For a single generation, that may not matter too much to the rest of society. It
 Perhaps that is tomorrow’s problem. For the moment there seems no reason beyond envy to oppose embryo SNP-profiling. But, from H.G. Wells’s Eloi in “The Time Machine” to Aldous Huxley’s Alphas in “Brave New World”, science fiction is full of breeding programmes for elite humans that have gone wrong. Sci-fi always enjoys portraying dystopias, and mostly they do not come true. But it might be wise to debate the matter now, just in case this time people really are unknowingly playing God.
 ***
 <h3 id="2.2">Assessing Emmanuel Macron’s apocalyptic vision</h3>
-###### Europe alone
-
-# Assessing Emmanuel Macron’s apocalyptic vision 
-
-![image](images/20191109_eup502_0.jpg) 
-
-> print-edition iconPrint edition | Leaders | Nov 7th 2019 
-
 TODAY’S EUROPE owes its existence to the United States. America fought two world wars on European soil; American diplomacy was midwife to what became the European Union; American arms protected western Europe from Soviet invasion; and American statesmen oversaw German unification. Now, in a dramatic plea to all Europeans, France’s president, Emmanuel Macron, has warned that America is cutting Europe loose. The old continent is “on the edge of a [`precipice`]( "If you say that someone is on the edge of a precipice, you mean that they are in a dangerous situation in which they are extremely close to disaster or failure. 险境; 危局")<sup>险境</sup>”, he warns. Unless it wakes up, “we will no longer be in control of our destiny.” 
 
 In his Elysée Palace office, Mr Macron spoke to The Economist in apocalyptic terms (see article). NATO, the transatlantic alliance, is suffering from “brain-death”, he says; Europe needs to develop a military force of its own. The EU thinks of itself as just a market, but it needs to act as a political bloc, with policies on technology, data and climate change to match. Past French presidents have argued that Europe cannot rely on America, and should look to France instead. Mr Macron is not just rehashing this view. He believes that America and Europe have shared interests and has worked tirelessly to keep good relations with President Donald Trump. But he argues that for the first time America has a president who “does not share our idea of the European project”. And even if Mr Trump is not re-elected, historical forces are pulling the old allies apart. 
@@ -419,7 +411,7 @@ The third worry is that firms and funds that SoftBank invests in have too much d
 Mr Son’s instinct is to expand by launching a second $100bn-plus Vision Fund, from which SoftBank could presumably earn fees and to which it could perhaps sell assets, while remaining in control. But the WeWork [`fiasco`](  "If you describe an event or attempt to do something as a fiasco, you are emphasizing that it fails completely. 彻底的失败")<sup>惨败</sup> raises profound doubts about his judgment and SoftBank’s valuation process. 
 
 From soft to soggy.Instead, the obvious path for SoftBank is a dose of [`austerity`](   "Austerity is a situation in which people's living standards are reduced because of economic difficulties. 经济紧缩")<sup>紧缩</sup>. That would mean stemming the losses at the tech firms owned by the Vision Fund and selling down more assets; SoftBank is already trying to merge Sprint with T-Mobile, a rival. It would also require Mr Son to `cede`<sup>放弃</sup> control. His vision of SoftBank involves one man being largely responsible for hundreds of billions of dollars—and for juggling no small number of competing objectives and interest groups. If you think that approach still makes sense you have to be soft in the head.
-*** 
+***
 <h3 id="5.4">How to make your firm more diverse and inclusive</h3>
 To: CEOcc: PASubject: A hard-headed guide to corporate diversity 
 
@@ -617,3 +609,5 @@ He had learned early on about Duchamp and the Dadaist movement through a few pho
 Mr Huang was lucky to come of age just as the Chinese avant-garde, known as the ’85 New Wave, was taking off. He was lucky too to fetch up in France, where artists and artistic theories were part of mainstream culture. In 1999 he represented France at the Venice Biennale, and on the day it opened Catherine Trautmann, the culture minister, handed the artist his first French passport. Becoming French cost him his Chinese citizenship and should logically have made him persona [`non grata`](    "Current managing director Dominic Barton personally called Gupta to tell him he was now persona non grata at the firm.  当前的常务董事鲍达民亲自致电古普塔，称他如今被公司列为不受欢迎的人。") in China. Yet the opposite proved true. 
 
 In 2000 he returned home for the first time in over a decade. Where once his works were collected almost exclusively by Western buyers such as François Pinault and Bernard Arnault, now he was sought out by Chinese museums, including M+, which will open in Hong Kong next year, and the Red Brick Art Museum on the outskirts of Beijing. Like the serpents he loved making, he was able to slip silently across frontiers, making works that were deeply political yet never dissident. For the 2000 Shanghai Biennial, he created “Bank of Sand, Sand of Bank”, a 20-tonne replica of the British-designed former HSBC Bank, which became a Communist government building after 1949 and in the 1990s was the headquarters of the Pudong Development Bank. Made of sand, thinly laced with cement, the work was designed to crumble away. In France it was seen as a critique of dog-eat-dog capitalism; in China as a comment on the weak heart of colonialism. He revelled in the ambiguity, which is why when he died suddenly of a brain haemorrhage, both France and China claimed him as their own.
+
+***
