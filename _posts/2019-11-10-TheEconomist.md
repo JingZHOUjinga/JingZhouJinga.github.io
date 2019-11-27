@@ -39,7 +39,6 @@ tags:
   * [Modern genetics will improve health and usher in “designer” children](#6.1)
 * [Obituary](#7)
   * [Obituary: Huang Yong Ping died on October 20th ](#7.1)
-***
 <h2 id="1">Books and arts</h2>
 ***
 <h3 id="1.1">A century ago America saved millions of Russians from starvation</h3>
