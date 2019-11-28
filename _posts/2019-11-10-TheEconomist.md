@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      英语笔记|The Economist20191109
+title:      英语笔记|TE20191109
 subtitle:   20191109期
 date:       2019-11-10
 author:     Jinga
