@@ -49,8 +49,10 @@ tags:
 	* [Why people should leave the countryside](#8.4)
 	* [Why the arguments against immigration are so popular ](#8.5)
 	* [Why voting with your feet is more effective than a ballot](#8.6)
+
 ***
 <h2 id="1">Leaders</h2>
+
 ***
 <h3 id="1.1">Aircraft-carriers are under threat from modern missiles</h3>
 
@@ -72,7 +74,7 @@ Aircraft-carriers, like the warplanes on them, belong to a class of large, vastl
 
 ***
 
-<h3 id="1.2">Public pensions are woefully underfunded</h3>>
+<h3 id="1.2">Public pensions are woefully underfunded</h3>
 
 MANY WORKERS in the private sector no longer have them. But most public-sector employees in America are still entitled to a valuable benefit: a pension linked to their final salary. A long-standing problem is that states and cities, which fund their plans differently from the federal government, have been [`lax`]( "If you say that a person's behaviour or a system is lax, you mean they are not careful or strict about maintaining high standards. 松懈的; 不严格的") about putting aside enough money to cover these promises. 
 
@@ -96,7 +98,7 @@ Correction (November 15th): A previous version of this article stated that the h
 
 ***
 
-<h3 id="1.3">Voters could make the world twice as rich. Why don’t they?</h3>>
+<h3 id="1.3">Voters could make the world twice as rich. Why don’t they?</h3>
 
 IMAGINE YOU are offered a job at triple your salary. But first you must pass through a locked door, and someone with the key won’t open it. You might be willing to pay them to let you through. Whether this is fair or not is beside the point. They have the key and you don’t. If you gave them a portion of the increase in your wages, you would both be better off. 
 
@@ -171,7 +173,7 @@ Few people look to Hollywood for economics lessons. But the entertainment epic h
 <h2 id="2">Briefing</h2>
 
 ***
-<h3 id="2.1">Aircraft-carriers are big, expensive, vulnerable—and popular</h3>>
+<h3 id="2.1">Aircraft-carriers are big, expensive, vulnerable—and popular</h3>
 
 IN 2016 THE Admiral Kuznetsov, Russia’s sole aircraft-carrier, spluttered north through the English Channel `belching`<sup>喷出</sup> thick black smoke. She was returning from an `ignominious`<sup>可耻的</sup> tour of duty in the Mediterranean. One of the 15 warplanes with which she had been pounding Syria had crashed into the sea; another had lurched off the deck after landing. When she finally `docked`<sup>停驻</sup> near Murmansk a 70-tonne crane smashed into her deck. 
 
@@ -231,7 +233,7 @@ Last June, at an annual gathering of military `bigwigs`<sup>权贵之人</sup> i
 
 ***
 
-<h3 id="2.2">The future of entertainment</h3>>
+<h3 id="2.2">The future of entertainment</h3>
 
 IN HOLLYWOOD LINGO, Disney+ launched hot. On blitz day, as Disney called the eve of its television-streaming service’s debut on November 12th, a massive marketing campaign reached a `climax`<sup>高潮</sup>. Buses in its theme parks were wrapped in ads, employees in Disney shops wore QR codes for people to sign up with smartphones and ABC’s “Dancing with the Stars” trailed the excitement to come. By the end of the first day, 10m people had signed up—beyond Disney’s highest expectations, it said. Its servers struggled to cope. The company rushed to fix the [`glitches`](  "A glitch is a problem that stops something from working properly or being successful. 故障"), as viewers devoured “The Mandalorian”, a specially made live-action “Star Wars” spin-off. 
 
