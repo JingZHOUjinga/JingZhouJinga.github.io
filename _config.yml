@@ -4,7 +4,7 @@ SEOTitle: Jinga的心流博客 | Jinga's Blog
 header-img: img/post-bg-rwd.jpg
 email: jingazhou＠163.com
 description: "Rome ne s'est pas faite en un jour."
-keyword: "Consultant, Data Scientist, NLPer, 行业研究，语言爱好者（英／法）, 数学专业"
+keyword: "NLPer, Data Scientist, AI, MATH"
 url: "http://jingzhoujinga.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jingzhoujinga/jingzhoujinga.github.io.git" # you code repository
@@ -20,10 +20,10 @@ sidebar-about-description: "君子慎独，行胜于言!"
 RSS: false
 #zhihu_username:    zhou-jing-15-1
 #github_username:    jingzhoujinga
-wechat_username:    zhoujing6918
+#wechat_username:    
 #linkedin_username:  jing-zhou-411261ba
 #jianshu_username:   7ecb9504c43c
-sofasofa_username:  1003445
+#sofasofa_username:  1003445
 
 
 
