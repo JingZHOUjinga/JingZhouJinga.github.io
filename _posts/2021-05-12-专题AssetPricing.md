@@ -29,14 +29,14 @@ tags:
 
 Wang et al. (2019)将VAE与采用LSTM的RNN网络结合应用于期货市场，其模型结果打败了许多经典模型。
 
-    Wang, J., Sun, T., Liu, B., Cao, Y., & Zhu, H. (2019, August). CLVSA: A convolutional LSTM based variational sequence-to-sequence model with attention for predicting trends of financial markets. In Proceedings of the 28th International Joint Conference on Artificial Intelligence (pp. 3705-3711). AAAI Press. https://doi.org/10.24963/ijcai.2019/514.
-  
+Wang, J., Sun, T., Liu, B., Cao, Y., & Zhu, H. (2019, August). CLVSA: A convolutional LSTM based variational sequence-to-sequence model with attention for predicting trends of financial markets. In Proceedings of the 28th International Joint Conference on Artificial Intelligence (pp. 3705-3711). AAAI Press. https://doi.org/10.24963/ijcai.2019/514.
+
 
 GKX根据Green等人(2017)的方法测试了94种资产属性，并确定了20个最具影响力的指标，同时断言剩余指标的重要性迅速下降。
 
 前20个股票特征可分为三类，分别是
 
-    价格趋势，包括(行业)动量，短期和长期逆转或最近的最大回报 流动性，例如营业额，美元数量或市值 风险度量，例如总回报率和特殊回报率波动率或市场beta   
+价格趋势，包括(行业)动量，短期和长期逆转或最近的最大回报 流动性，例如营业额，美元数量或市值 风险度量，例如总回报率和特殊回报率波动率或市场beta   
 
 
 
@@ -44,7 +44,7 @@ GKX根据Green等人(2017)的方法测试了94种资产属性，并确定了20�
 
 
 
-![process.png](/img/20210512process.png)
+![process.png](/img/20210512process.jpg)
 
 
 
