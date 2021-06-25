@@ -696,7 +696,7 @@ Export["heart.jpg",
   ContourStyle -> Red, PlotPoints -> 90]]  
 ```
 
-![heart.png](/img/20210517heart.png)
+![heart.jpg](/img/20210517heart.jpg)
 
 
 <h2 id="3">3.数学领域</h2>  
