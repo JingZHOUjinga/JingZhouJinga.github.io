@@ -197,17 +197,7 @@ output:
 
 [Cartoonise people in videos with neural networks, image/video processing ](https://community.wolfram.com/groups/-/m/t/2253071?source=frontpage-latest-news)   
 
----
 
-
-应用于单个点的置换：   
-
-```mathematica
-In[1]:= PermutationReplace[3, Cycles[{{1, 3, 2}}]]                              
-
-Out[1]= 2  
-```
-表示计算3映射到后面的元素   
 
 ---
 
