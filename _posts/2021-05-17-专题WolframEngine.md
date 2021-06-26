@@ -786,7 +786,12 @@ Out[4]= {DateObject[{2021, 5, 18}, Day, Gregorian, 8.],
 
 **代数**   
 
+{% raw %}
+```
 x = {1,2}^T,A = {{2,a},{3,4}},B={{6,4},{7,5}},x^T.A.x = det B,求a值   
+```   
+{% endraw %} 
+
 
 {% raw %}
 ```mathematica
