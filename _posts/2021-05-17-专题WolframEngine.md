@@ -341,7 +341,7 @@ Clear["Global`*"]
 
 以数学符号形式查看矩阵   
 
-```mathematica
+```
 In[1]:= matrices =  RandomInteger[2,{5,2,2}]                                    
 
 Out[1]= {{{1, 0}, {2, 0}}, {{1, 1}, {2, 0}}, {{1, 0}, {2, 2}}, 
