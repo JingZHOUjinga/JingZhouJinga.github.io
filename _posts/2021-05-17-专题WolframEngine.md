@@ -417,6 +417,7 @@ Out[51]= {b, e}
 
 里面参数添加外面层输入作为参数   
 
+{% raw %}
 ```mathematica
 In[53]:= Outer[f,{a,b},{c,d},{e,f}]                                             
 
@@ -425,11 +426,13 @@ Out[53]= {{{f[a, c, e], f[a, c, f]}, {f[a, d, e], f[a, d, f]}},
 >    {{f[b, c, e], f[b, c, f]}, {f[b, d, e], f[b, d, f]}}}
 
 ```
+{% endraw %}    
 
 ---
 
 将第3列与第2列互换   
 
+{% raw %}
 ```mathematica
 In[56]:= x = Array[a,{2,2,2}]                                                   
 
@@ -444,6 +447,8 @@ Out[57]= {{{a[1, 1, 1], a[1, 2, 1]}, {a[1, 1, 2], a[1, 2, 2]}},
 >    {{a[2, 1, 1], a[2, 2, 1]}, {a[2, 1, 2], a[2, 2, 2]}}}
 
 ```
+{% endraw %}      
+
 
 ---
 
@@ -472,6 +477,7 @@ Out[71]//MatrixForm= x   0   0   0   0
 
 生成带状对角矩阵   
 
+{% raw %}
 ```mathematica
 In[11]:= Normal[SparseArray[{i_,j_} /;Abs[i-j]<2->3,{5,5}]]                         
 
@@ -492,6 +498,8 @@ Out[12]//MatrixForm= 3   3   0   0   0
                      0   0   0   3   3
 
 ```
+{% endraw %}     
+
 
 ---
 
@@ -598,7 +606,8 @@ Out[10]= sin[k]
 In[1]:= StringCases["abbcbccaabbabccaa",x_~~x_]                                 
 
 Out[1]= {bb, cc, aa, bb, cc, aa}
-```
+```    
+
 ---
 
 绘制网格圆   
@@ -609,7 +618,109 @@ Graphics3D[{PointSize@Medium,
    MeshPrimitives[DiscretizeRegion@Sphere[], #] & /@ {0, 1}, {2}]}, 
  Boxed -> False]
 
+```   
+
+---
+
+找出2^500中数字0的所有位置  
+
+{% raw %}
+```mathematica
+In[15]:= Flatten[Position[IntegerDigits[2^500], 0]]                             
+
+Out[15]= {7, 9, 19, 20, 44, 47, 50, 65, 75, 88, 89, 96, 103, 115, 116, 119, 120, 137}
 ```
+{% endraw %}    
+
+---
+
+
+应用于单个点的置换：   
+
+{% raw %}
+```mathematica
+In[1]:= PermutationReplace[3, Cycles[{{1, 3, 2}}]]                              
+
+Out[1]= 2  
+```
+{% endraw %}    
+
+表示计算3映射到后面的元素   
+
+
+---
+
+双点"x.." 或 Repeated[x]函数表示一个或多个表达式的序列，每个表达式匹配模式 x。例如，
+
+{% raw %}
+```
+{{}, {a, a}, {a, b}, {a, a, a}, {a}} /. {a ..} -> x
+```   
+{% endraw %}    
+
+结果为     
+
+{% raw %}
+```
+{{}, x, {a, b}, x, x}。
+```   
+{% endraw %}    
+
+
+注意：当x..中的x元素为数字时，要加入空格避免与小数点混淆。例如 0 ..
+
+
+
+---
+
+自动构建列表   
+Table函数：按照指定次数和指定值，生成某个函数的列表。例如，Table[x,5]，生成{x,x,x,x,x}；Table[a[n],{n,5}]，生成{a[1], a[2], a[3], a[4], a[5]}。这个函数的用途很广泛，使用频率很高。   
+
+
+
+
+对列表元素排序   
+
+{% raw %}
+```mathematica
+In[12]:= FixedPointList[(# /. {x___, b_, a_, y___} /; b > a -> {x, a, b, y}) &, 
+{4, 5, 1, 3, 2}]                                                                
+
+Out[12]= {{4, 5, 1, 3, 2}, {4, 1, 5, 3, 2}, {1, 4, 5, 3, 2}, {1, 4, 3, 5, 2}, 
+ 
+>    {1, 3, 4, 5, 2}, {1, 3, 4, 2, 5}, {1, 3, 2, 4, 5}, {1, 2, 3, 4, 5}, 
+ 
+>    {1, 2, 3, 4, 5}}
+```
+{% endraw %}    
+
+
+利用ListLinePlot可视化上述结果。代码：ListLinePlot[%]   
+
+
+---
+
+以数学符号形式查看矩阵   
+
+{% raw %}
+```
+In[1]:= matrices =  RandomInteger[2,{5,2,2}]                                    
+
+Out[1]= {{{1, 0}, {2, 0}}, {{1, 1}, {2, 0}}, {{1, 0}, {2, 2}}, 
+ 
+>    {{1, 1}, {1, 2}}, {{2, 2}, {1, 0}}}
+
+In[2]:= MatrixForm /@matrices                                                   
+
+Out[2]= {1   0, 1   1, 1   0, 1   1, 2   2}
+
+         2   0  2   0  2   2  1   2  1   0
+```
+{% endraw %}
+
+
+
+
 ---
 
 属于符号怎么打   
@@ -618,7 +729,8 @@ Graphics3D[{PointSize@Medium,
 q=e Exp[I t];
 cq=ComplexExpand[1/(1-q)];
 Simplify[Re[cq],Assumptions->{e,t} \[Element] Reals] (*Imag part = 0*)Simplify[Im[cq],Assumptions->{e,t} \[Element] Reals] (*Imag part = 0*)
-```
+```    
+
 ---
 
 绘制三维心形图并导出为图片
@@ -649,11 +761,15 @@ in the event of a tie 如遇平局
 
 Sort by comparing the second part of each element:   
 
+{% raw %}
 ```mathematica
 In[2]:= Sort[{{a, 2}, {c, 1}, {d, 3}}, #1[[2]] < #2[[2]] &]                     
 
 Out[2]= {{c, 1}, {a, 2}, {d, 3}}
 ```
+{% endraw %}   
+
+
 ---
 
 Use NumericalOrder to allow complex numbers and number-like expressions: 
@@ -672,20 +788,26 @@ Out[4]= {DateObject[{2021, 5, 18}, Day, Gregorian, 8.],
 
 x = {1,2}^T,A = {{2,a},{3,4}},B={{6,4},{7,5}},x^T.A.x = det B,求a值   
 
+{% raw %}
 ```mathematica
 In[4]:= Solve[{1,2}.{{2,a},{3,4}}.{{1},{2}}==Det[{{6,4},{7,5}}],a]              
 
 Out[4]= {{a -> -11}}
 ```
+{% endraw %}   
+
 ---
 
 对矩阵特征值进行化简   
 
+{% raw %}
 ```mathematica
 In[5]:= Simplify[Det[{{x1^2,x1,1},{x2^2,x2,1},{x3^2,x3,1}}]]                    
 
 Out[5]= (x1 - x2) (x1 - x3) (x2 - x3)
 ```
+{% endraw %}   
+
 ---
 
 复数转指数函数表示   
@@ -753,6 +875,7 @@ Out[22]= 2 x y - 3 x y
 
 解微分方程时得到解中含有形如K[1]的未知变量时可用换元法替代为自然记号   
 
+{% raw %}
 ```mathematica
 In[1]:= sol = DSolve[y'[x]+y[x]==Q[x],y[x],x]                                   
 
@@ -771,6 +894,8 @@ Out[2]= {{y[x] -> ---- + ---------------------------------------}}
                    E                       E
 
 ```
+{% endraw %}    
+
 
 ---
 
@@ -783,6 +908,7 @@ Out[2]= {{y[x] -> ---- + ---------------------------------------}}
 
 将初值条件和微分方程分开来写然后联合求解并画出3D图   
 
+{% raw %}
 ```mathematica
 In[25]:= Clear[x, y, z, t ]                                                     
 
@@ -816,11 +942,14 @@ ge -> All]
 
 
 ```
+{% endraw %}   
+
 
 ---
 
 遇到微分方程的隐式解时可做转换   
 
+{% raw %}
 ```mathematica
 In[44]:= sol = DSolve[Derivative[2][y][x]+y[x]*Derivative[1][y][x]^4 == 0,y,x]  
 
@@ -863,11 +992,13 @@ Out[47]= C[1] Log[y[x] + Sqrt[-2 C[1] + y[x] ]] -
 >     -------------------------- == x + C[2]
                   2
 ```
+{% endraw %}   
 
 ---
 
 用GeneratedParameters改变微分方程解中未定义的参数    
 
+{% raw %}
 ```mathematica
 In[53]:= DSolve[y'[x]+y[x] ==1,y[x],x,GeneratedParameters ->P]                         
 
@@ -884,11 +1015,13 @@ Out[56]= {{y[x] -> 1 + const[1] Cos[x] + const[2] Sin[x]}}
 
 
 ```
+{% endraw %}   
 
 ---
 
 如果得不到方程的解，可以尝试互换自变量和因变量  
 
+{% raw %}
 ```mathematica
 In[58]:= Clear["Global`*"]                                                             
 
@@ -909,6 +1042,8 @@ In[60]:= DSolve[x'[y] ==(x[y]-y) && x[1] ==0,x,y]
 Out[60]= {{x -> Function[{y}, --------------]}}
                                     E
 ```
+{% endraw %}    
+
 
 ---
 
@@ -918,6 +1053,7 @@ Out[60]= {{x -> Function[{y}, --------------]}}
 
 画图给坐标轴打标题   
 
+{% raw %}
 ```mathematica
 In[1]:= exactsolution=DSolve [{D[D[xe[t],t],t]+w0^2 xe[t]==0,xe[0]==0,xe'[0]==1}
 ,xe[t],t]                                                                       
@@ -932,12 +1068,13 @@ bel -> {"t","x(t)"}]
 Out[3]= -Graphics-
 
 ```
-
+{% endraw %}   
 
 ---
 
 Finally,  we  will  create  a  movie  with  the  trajectory graphs of a particle.  We will take uniform circular motion, so x(t) =Acos(ωt) and y(t) =Asin(ωt).  Choosing A=ω=  1,  we  can  create  a  movie  with  the  following commands
 
+{% raw %}
 ```mathematica
 x[t_] := A*Cos[w*t]; y[t_] := A*Sin[w*t]; A = 1;w= 1;  tRange = Range [0.001 ,  20*Pi, 20*Pi/500];
 For[k = 1, k  <= Length[tRange], k++, tk = tRange[[k]]; xk = x[tk]; yk = y[tk];movieVector[k] =Show[Graphics[{AbsolutePointSize[15], Green ,Point[{xk, yk}]},PlotRange  -> {{-1.1, 1.1}, {-1.1, 1.1}}] ,ParametricPlot [{x[t], y[t]}, {t, 0, tk},PlotStyle  -> Red ,PlotRange  -> {{-1.1, 1.1}, {-1.1, 1.1}}] ,AxesLabel  -> {"x","y"},PlotLabel  -> StringJoin["t=", ToString[N[tk]]]]]
@@ -946,7 +1083,7 @@ fileName ="FilmeMathematica.avi";
 Export[fileName , M]
 Directory []    
 ```
-
+{% endraw %}   
 
 
 **随机过程**  
